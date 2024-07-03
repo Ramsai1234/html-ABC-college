@@ -1,5 +1,9 @@
-## 1.HTMl
+## AIM:
+ Html file to display the contents as seen in the following image
 
+ ## PROGRAM:
+ ## HTML CODE:
+ ```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -130,16 +134,16 @@
                     </td>                
                 </tr>
 
-                 </tbody>
+                
+        </tbody>
 
         
     </table>
 </body>
 </html>
 
-## output:
 
-![image](https://github.com/Ramsai1234/html-ABC-college/assets/94269989/6fc32b00-7f97-4705-a51c-56ee13e1cc00)
+```
 
-
-     
+## OUTPUT:
+![image](https://github.com/Ramsai1234/html-ABC-college/assets/94269989/e3f5c42c-4bae-4f17-8df0-bf811ec80af9)
