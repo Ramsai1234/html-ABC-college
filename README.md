@@ -1,8 +1,145 @@
-# html-ABC-college
+## 1.HTMl
 
-One Home page that leads to other pages. The Home page should contain the name of the City as heading along with a logo. There should be a tab with the following links:
- Home;
- Heritage;
- Hotel Booking;
- Gallery.
-There should be an appropriate description of the college on the home page.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1px"width="100%">
+        <tbody>
+                <tr>
+                    <td colspan="2" align="center">
+                        <strong>My Day</strong>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        <ol>
+                            <li>
+                                Wake up only
+                                <ul>
+                                    <li>
+                                        2 am
+                                    </li>
+                                    <li>
+                                        walk
+                                    </li>
+
+                                    <li>
+                                        jpg
+                                    </li>
+                                </ul>
+                            </li>    
+                        </ol>
+                    </td>
+                    <td rowspan="4" width="50%">
+                        <table border="1px" width="50%" align="center">
+                            <tr>
+                                <td colspan="2" align="center">
+                                    <strong>Things to Watch</strong>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <img src="images/car.jpeg" width="100%">
+                                </td>
+                                <td>
+                                    <img src="images/cat.jpeg" width="100%">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <img src="images/food.jpeg" width="100%">
+                                </td>
+                                <td>
+                                    <img src="images/trees.jpeg" width="100%">
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    
+                </tr>
+                <tr>
+                    <td>
+                        <ol>
+                            <li>
+                                Wake up only
+                                <ul>
+                                    <li>
+                                        2 am
+                                    </li>
+                                    <li>
+                                        walk
+                                    </li>
+
+                                    <li>
+                                        jpg
+                                    </li>
+                                </ul>
+                            </li>
+                            
+                            
+                        </ol>
+                    </td>
+                    
+                </tr>
+                <tr>
+                    <td>
+                        <ol>
+                            <li>
+                                Breakfast
+                                <ul>
+                                    <li>
+                                        8 am
+                                    </li>
+                                    <li>
+                                        eggs
+                                    </li>
+
+                                    <li>
+                                        Coffee
+                                    </li>
+                                </ul>
+                            </li>
+                        </ol>
+                    </td>                    
+                </tr>
+                <tr>
+                    <td>
+                        <ol>
+                            <li>
+                                Go to Saveetha Engineering college
+                                <ul>
+                                    <li>
+                                        8 am
+                                    </li>
+                                    <li>
+                                        attend classes
+                                    </li>
+
+                                    <li>
+                                        to be continued
+                                    </li>
+                                </ul>
+                            </li>
+                        </ol>
+                    </td>                
+                </tr>
+
+                 </tbody>
+
+        
+    </table>
+</body>
+</html>
+
+## output:
+
+![image](https://github.com/Ramsai1234/html-ABC-college/assets/94269989/6fc32b00-7f97-4705-a51c-56ee13e1cc00)
+
+
+     
